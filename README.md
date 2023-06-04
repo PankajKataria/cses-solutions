@@ -20,3 +20,23 @@
 - [ ] [Cycle Finding]()
 - [ ] [Flight Routes]()
 - [ ] [Round Trip II]()
+
+### Strings
+
+- [ ] [Word Combinations]()
+- [X] [String Matching](solutions/strings/stringmatching.cpp)
+- [X] [Finding Borders](solutions/strings/findingborders.cpp)
+- [X] [Finding Periods](solutions/strings/findingperiods.cpp)
+- [X] [Minimal Rotation](solutions/strings/minimalrotation.cpp)
+- [X] [Longest Palindrome](solutions/strings/longestpalindrome.cpp)
+- [ ] [Required Substring]()
+- [ ] [Palindrome Queries]()
+- [ ] [Finding Patterns]()
+- [ ] [Counting Patterns]()
+- [ ] [Pattern Positions]()
+- [ ] [Distinct Substrings]()
+- [ ] [Repeating Substring]()
+- [ ] [String Functions]()
+- [ ] [Substring Order I]()
+- [ ] [Substring Order II]()
+- [ ] [Substring Distribution]()
