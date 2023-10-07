@@ -1,42 +1,63 @@
-# cses-solutions.
-- Solutions for [cses](https://cses.fi/)
+> ## List of problems
+</br>
 
-### Introductory Problems
-- [X] [Weird Algorithm](solutions/introductory/weirdalgorithm.cpp)
-- [X] [Missing Number](solutions/introductory/missingnumber.cpp)
+<details><summary>Introductory Problems</summary>
 
-### Graph
-- [X] [Counting Rooms](solutions/graph/countingrooms.cpp)
-- [X] [Labyrinth](solutions/graph/labyrinth.cpp)
-- [X] [Building Roads](solutions/graph/buildingroads.cpp)
-- [X] [Message Route](solutions/graph/messageroute.cpp)
-- [X] [Building Teams](solutions/graph/buildingteams.cpp)
-- [X] [Round Trip](solutions/graph/roundtrip.cpp)
-- [X] [Monsters](solutions/graph/monsters.cpp)
-- [ ] [Shortest Routes I]()
-- [ ] [Shortest Routes II]()
-- [ ] [High Score]()
-- [ ] [Flight Discount]()
-- [ ] [Cycle Finding]()
-- [ ] [Flight Routes]()
-- [ ] [Round Trip II]()
+| Problems            | Cpp                                              | Java |
+| ------------------- | ------------------------------------------------ | ---- |
+| [Weird Algorithm]() | [cpp](solutions/introductory/weirdalgorithm.cpp) |      |
+| [Missing Number]()  | [cpp](solutions/introductory/missingnumber.cpp)  |      |
 
-### Strings
+</details></br>
 
-- [ ] [Word Combinations]()
-- [X] [String Matching](solutions/strings/stringmatching.cpp)
-- [X] [Finding Borders](solutions/strings/findingborders.cpp)
-- [X] [Finding Periods](solutions/strings/findingperiods.cpp)
-- [X] [Minimal Rotation](solutions/strings/minimalrotation.cpp)
-- [X] [Longest Palindrome](solutions/strings/longestpalindrome.cpp)
-- [ ] [Required Substring]()
-- [ ] [Palindrome Queries]()
-- [ ] [Finding Patterns]()
-- [ ] [Counting Patterns]()
-- [ ] [Pattern Positions]()
-- [ ] [Distinct Substrings]()
-- [ ] [Repeating Substring]()
-- [ ] [String Functions]()
-- [ ] [Substring Order I]()
-- [ ] [Substring Order II]()
-- [ ] [Substring Distribution]()
+<details><summary>Dynamic programming</summary></details></br>
+<details><summary>Array</summary></details></br>
+<details><summary>Greedy</summary></details></br>
+<details><summary>Backtracking</summary></details></br>
+<details><summary>Geometry</summary></details></br>
+
+<details><summary>Strings</summary>
+
+| Problems                   | Cpp                                            | Java |
+| -------------------------- | ---------------------------------------------- | ---- |
+| [String Matching]()        | [cpp](solutions/strings/stringmatching.cpp)    |      |
+| [Finding Borders]()        | [cpp](solutions/strings/findingborders.cpp)    |      |
+| [Finding Periods]()        | [cpp](solutions/strings/findingperiods.cpp)    |      |
+| [Minimal Rotation]()       | [cpp](solutions/strings/minimalrotation.cpp)   |      |
+| [Longest Palindrome]()     | [cpp](solutions/strings/longestpalindrome.cpp) |      |
+| [Word Combinations]()      |                                                |      |
+| [Required Substring]()     |                                                |      |
+| [Palindrome Queries]()     |                                                |      |
+| [Finding Patterns]()       |                                                |      |
+| [Counting Patterns]()      |                                                |      |
+| [Pattern Positions]()      |                                                |      |
+| [Distinct Substrings]()    |                                                |      |
+| [Repeating Substring]()    |                                                |      |
+| [String Functions]()       |                                                |      |
+| [Substring Distribution]() |                                                |      |
+| [Substring Order I]()      |                                                |      |
+| [Substring Order II]()     |                                                |      |
+
+</details></br>
+
+<details><summary>Graph</summary>
+
+| Problems               | Cpp                                      | Java |
+| ---------------------- | ---------------------------------------- | ---- |
+| [Labyrinth]()          | [cpp](solutions/graph/labyrinth.cpp)     |      |
+| [Monsters]()           | [cpp](solutions/graph/monsters.cpp)      |      |
+| [Counting Rooms]()     | [cpp](solutions/graph/countingrooms.cpp) |      |
+| [Building Roads]()     | [cpp](solutions/graph/buildingroads.cpp) |      |
+| [Message Route]()      | [cpp](solutions/graph/messageroute.cpp)  |      |
+| [Building Teams]()     | [cpp](solutions/graph/buildingteams.cpp) |      |
+| [Round Trip]()         | [cpp](solutions/graph/roundtrip.cpp)     |      |
+| [High Score]()         |                                          |      |
+| [Flight Discount]()    |                                          |      |
+| [Cycle Finding]()      |                                          |      |
+| [Flight Routes]()      |                                          |      |
+| [Shortest Routes I]()  |                                          |      |
+| [Shortest Routes II]() |                                          |      |
+| [Round Trip II]()      |                                          |      |
+
+</details></br>
+
